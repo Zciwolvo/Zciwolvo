@@ -13,7 +13,7 @@
 
 
 ## My Skill Set  
-<table align="center"><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="50%">
 
 
 
@@ -29,7 +29,7 @@
 
 
 
-### <p align="center">Backend</p>  
+### Backend
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" /></a>  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="75" /></a>  
