@@ -6,8 +6,8 @@
   
 
 - 🌱 I’m currently learning Django  
-  
-
+- 📔 I’m studying Computer Science (currently 2nd year)
+- 🔨 Currently working on some personal projects regarding Databases and financial analysis
 <br/>  
 
 
