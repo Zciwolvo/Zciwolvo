@@ -2,7 +2,7 @@
 </div>  
   
 
-### <div align="center">I'm Igor, junior backend developer</div>  
+### <div>I'm Igor, junior backend developer</div>  
   
 
 - 🌱 I’m currently learning Django  
